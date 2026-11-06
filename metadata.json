@@ -1,0 +1,6 @@
+{
+  "name": "Shopkart - Premier E-Commerce Platform",
+  "description": "Complete, production-grade full-stack e-commerce marketplace featuring comprehensive product catalogs, dynamic cart & checkout, server-side payments & order lifecycle, customer accounts, and real-time admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
